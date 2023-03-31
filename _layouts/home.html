@@ -90,7 +90,7 @@ layout: default
                 <p><i>{{section.description}}</i></p>
                 <p class="card-text">{% bibliography -f presentations %}</p>              
               </div>
-            {% elsif section.name == "Projects" %}
+            {% elsif section.name == "项目" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
                   {% for projects in site.data.projects %}
@@ -140,11 +140,13 @@ layout: default
             {% elsif section.name == "音乐" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
-                <div class="list-group">
+                
                 {% for msc in site.data.music %}
-                  <button type="button" class="list-group-item text-left"><a href="{{ msc.Url}}">{{ msc.Song }}-{{ msc.Cover }}</a></button>
-                {% endfor %}
+                <div class="list-group">
+                    <button type="button" class="list-group-item text-left"><a href="{{ msc.Url}}">{{ msc.Song }}-{{ msc.Cover }}</a></button>
+                    <span margig-left:10px>{{msc.Desc}}</span>
                 </div>
+                {% endfor %}
               </div>
             {% else %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  

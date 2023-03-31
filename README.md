@@ -38,7 +38,7 @@
 - [Setting Options](#setting-options)
   - [Base  Settings](#base--settings)
   - [Site Settings](#site-settings)
-  - [Blog Settings](#blog-settings)
+  - [Blog Settings](#blog-settings) 
   - [Theme Settings](#theme-settings)
   - [Help Settings](#help-settings)
   - [Jekyll Scholar Settings](#jekyll-scholar-settings)
