@@ -1,16 +1,17 @@
  {% assign theme = site.data.themes[site.ui_theme] %}
-  <h5 class="card-title" style="font-family:{{ theme.education-title-font}};font-size:{{ theme.education-title-size }};color:{{theme.education-font-color}};">Education & Certifications</h5>
+  <h5 class="card-title" style="font-family:{{ theme.education-title-font}};font-size:{{ theme.education-title-size }};color:{{theme.education-font-color}};">教育背景</h5>
   <ul class="list-unstyled">
   {% for entry in site.data.education %}
     <li class="media">
-      <img src="{{ entry.Icon }}" class="mr-3" alt="...">
+      <img src="{{ entry.Icon }}" width=50px height=50px class="mr-3" alt="...">
       <div class="media-body">
-        <h5 style="font-family:{{ theme.education-entry-font}};font-size:{{ theme.education-entry-size }};color:{{theme.education-font-color}};">{{ entry.School }}</h5>
-        <p style="font-family:{{ theme.education-entry-font}};font-size:{{ theme.education-section-size }};color:{{theme.education-font-color}};"><i>{{ entry.Program }}</i></p>
+        <h5 style="font-family:{{ theme.education-entry-font}};font-size:{{ theme.education-entry-size }};color:{{theme.education-font-color}};">{{ entry.University }}</h5>
+        <p style="font-family:{{ theme.education-entry-font}};font-size:{{ theme.education-section-size }};color:{{theme.education-font-color}};"><i>{{ entry.School }}</i></p>
         {% if entry.Degree %}
           <p>{{ entry.Degree }}</p>
         {% endif %}
       </div>
     </li>
+    
     {% endfor %}
   </ul>

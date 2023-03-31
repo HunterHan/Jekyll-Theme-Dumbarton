@@ -1,6 +1,13 @@
-- School: Princeton
-  Degree: 
-  Program: School of Public and International Affairs
-  Start Date: 
-  End Date: 
-  Icon: /assets/img/icons/2x/princeton-crop.png      # Make this icon small, think 30px/30px
+- University: 华东师范大学
+  School: 数据科学与工程学院
+  Degree: 工学硕士
+  Start Date: 2022
+  End Date: 2025
+  Icon: /assets/img/icons/2x/ecnu.jpg      # Make this icon small, think 30px/30px
+
+- University: 上海对外经贸大学
+  School: 统计与信息学院
+  Degree: 管理学学士
+  Start Date: 2017
+  End Date: 2021
+  Icon: /assets/img/icons/2x/suibe.jpeg

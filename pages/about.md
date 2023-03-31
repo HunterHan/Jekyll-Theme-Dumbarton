@@ -1,15 +1,19 @@
 ---
 layout: page
 permalink: /about.html
-title: About Me
-description: Get to know what I'm up too
+title: 关于我
+description: 了解最近的我
 header-img: 
-last-updated: 2020-10-30 5:55 PM
+last-updated: 2023-3-30 9:00 AM
 ---
 
 <h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Libero id faucibus nisl tincidunt eget. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Duis convallis convallis tellus id interdum velit. Ultricies mi eget mauris pharetra et. Odio pellentesque diam volutpat commodo sed egestas. Eu mi bibendum neque egestas congue quisque. Augue lacus viverra vitae congue eu consequat ac felis donec. Ultrices vitae auctor eu augue ut lectus arcu. Eu consequat ac felis donec et. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget.
+我于2022年进入DaSE，目前仍是学院的一名学生。进入学院后我加入了cool-lab实验室，主要方向为高性能计算、并行计算和图计算。
+
+关于研究与学习，我几乎是一个科研小白的身份从新手村上来，正在了解、熟悉系统组方向科研过程的生命周期。同时，在基础知识上我也正在夯cpp和并行计算，希望通过充分的代码训练与理论知识储备让我能在毕业时收获并行计算方向的岗位或体系机构方向博导老师的橄榄枝。
+
+关于生活与爱好，我是一个原声吉他爱好者，中学期间硬夯下《Fight!》之后，便沿着指弹&弹唱的方向开始逐步探索。在体育运动上比较喜欢骑行，习惯从学校出发沿苏州河一直骑到北外滩。沿途的风光与异域风情的建筑群总会让我忘掉一周的疲乏，整个人完全refresh后再以饱满的热情投入下一周的学习与研究。另外，近几年开始，我逐步养成了阅读的习惯，尤其爱看写人物传记与历史纪实。所谓“学史明理、学史增信、学史崇德“，通过阅读我发现其实真的可以从前人的身上汲取不少经验，成功的或是失败的，从他们的身上汲取积极的精神力量以及方法论。
 
 
 *This is an example of code*

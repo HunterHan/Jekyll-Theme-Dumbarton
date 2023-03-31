@@ -8,30 +8,30 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: Dumbarton 
+title: 是憨憨啊
 email: 
 description: a minimalistic jekyll theme for academics
 baseurl:                                       # the subpath of your site, e.g. /blog
-url: "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
-image: /assets/img/dumbarton.png               # used to generate site link preview
+url: "https://hunter.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
+image: /assets/img/hzy.png               # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
 # =======================================#
 # -----------SITE SETTINGS---------------#
 #========================================#: 
-author: John Doe 
-profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
+# author: Hunter 
+profile_image: /assets/img/avatar/hunter.jpeg #/assets/img/avatar/avatar.jpeg 
 occupation: 
 snippet:
 twitter: tbutler0x90
-github: tcbutler320
-linkedin: tyler-b-a700a1aa
-stackoverflow: '12935605'
-website: https://tbutler.org
+github: hunterhan
+# linkedin: 
+# stackoverflow: '12935605'
+#website: https://tbutler.org
 codepen: 
 medium: 
-email: developer.tbutler@gmail.com
-keybase: tbutler320
+email: 1596700347@qq.com
+#keybase: tbutler320
 pgp: 
 ctftime: 
 phonenumber: 
@@ -116,7 +116,7 @@ exclude:
 # -----JEKYLL SCHOLAR SETTINGS-----------#
 #========================================#
 scholar:
-  last_name: Dumbarton
+  last_name: Hunter
   style: apa
   locale: en
   source: /_bibliography/

@@ -1,17 +1,17 @@
 nav_list_title: Navigation List
 links:
 
-- title: About
+- title: 关于
   url: about.html
 
-- title: Publications
+- title: 论文
   url: publications.html
 
-- title: Blog
+- title: 博客
   url: blog.html
 
-- title: Vitae
-  url: /assets/pdf/vitae.pdf
+#- title: Vitae
+#  url: /assets/pdf/vitae.pdf
 
-- title: Contact
+- title: 联系
   url: contact.html

@@ -10,6 +10,12 @@
   content: 
   first: false
 
+- name: 音乐
+  id: music
+  description: 这是我最近正在练习的一些曲目。有些是完成了制谱并发布在吉他社区中，欢迎大家参考借鉴并批评指正！
+  content: 
+  first: false
+
 - name: Teaching
   id: teaching
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -23,4 +29,3 @@
   content: 
   url: projects.html
   first: false
-
