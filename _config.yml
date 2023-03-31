@@ -13,7 +13,7 @@ email:
 description: a minimalistic jekyll theme for academics
 baseurl:                                       # the subpath of your site, e.g. /blog
 url: "https://hunter.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
-image: /assets/img/hzy.png               # used to generate site link preview
+image: /assets/img/avatar/hunter.jpeg         # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
 # =======================================#
