@@ -16,7 +16,7 @@
   content: 
   url: music.html
   first: false
-  
+
 - name: 阅读
   id: readings
   description: 正在阅读或者已经读完的书籍。
@@ -24,12 +24,12 @@
   url: reading.html
   first: false
 
-- name: Teaching
-  id: teaching
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  content: 
-  url: teaching.html
-  first: false
+# - name: Teaching
+#   id: teaching
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   content: 
+#   url: teaching.html
+#   first: false
 
 - name: 项目
   id: projects
