@@ -3,6 +3,20 @@
   description: 关于本人与实验室发表论文
   url: publications.html
   first: true
+
+- name: 项目
+  id: projects
+  description: 已完成与正在进行的课题项目。
+  content: 
+  url: projects.html
+  first: false
+
+- name: Teaching
+  id: teaching
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  content: 
+  url: teaching.html
+  first: false
   
 - name: 课程作业
   id: courses
@@ -24,17 +38,6 @@
   url: reading.html
   first: false
 
-- name: Teaching
-  id: teaching
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  content: 
-  url: teaching.html
-  first: false
 
-- name: 项目
-  id: projects
-  description: 已完成与正在进行的课题项目。
-  content: 
-  url: projects.html
-  first: false
+
 
