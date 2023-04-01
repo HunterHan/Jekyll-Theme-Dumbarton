@@ -1,10 +1,10 @@
-- name: Publications
+- name: 论文
   id: publications
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   url: publications.html
   first: true
   
-- name: Coursework
+- name: 课程作业
   id: courses
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   content: 
@@ -29,4 +29,11 @@
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   content: 
   url: projects.html
+  first: false
+
+- name: 阅读
+  id: projects
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  content: 
+  url: reading.html
   first: false

@@ -74,7 +74,7 @@ layout: default
       <div class="tab-content mt-3">
         {% for section in site.data.sections %}
           {% if section.first %}
-            {% if section.name == "Publications" %}
+            {% if section.name == "论文" %}
               <div class="tab-pane active overflow-auto" id="{{section.id}}" role="tabpanel">
                 <p><i>{{section.description}}</i></p>
                 <p class="card-text">{% bibliography -f papers %}</p>
@@ -128,7 +128,7 @@ layout: default
                     {% endfor %}
               </div>
             
-            {% elsif section.name == "Coursework" %}
+            {% elsif section.name == "课程作业" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
                 <div class="list-group">
@@ -140,11 +140,20 @@ layout: default
             {% elsif section.name == "音乐" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
-                
                 {% for msc in site.data.music %}
                 <div class="list-group">
                     <button type="button" class="list-group-item text-left"><a href="{{ msc.Url}}">{{ msc.Song }}-{{ msc.Cover }}</a></button>
                     <span margig-left:10px>{{msc.Desc}}</span>
+                </div>
+                {% endfor %}
+              </div>
+            {% elsif section.name == "阅读" %}
+              <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
+                <p><i>{{section.description}}</i></p>
+                {% for reading in site.data.readings %}
+                <div class="list-group">
+                    <button type="button" class="list-group-item text-left"><a href="{{ reading.Url}}">{{ reading.Book }}-{{ reading.Author }}</a></button>
+                    <span margig-left:10px>{{reading.Review}}</span>
                 </div>
                 {% endfor %}
               </div>
