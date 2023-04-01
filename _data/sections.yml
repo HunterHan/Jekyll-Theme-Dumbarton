@@ -1,12 +1,12 @@
 - name: 论文
   id: publications
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 关于本人与实验室发表论文
   url: publications.html
   first: true
   
 - name: 课程作业
   id: courses
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 课程作业
   content: 
   first: false
 
@@ -15,6 +15,13 @@
   description: 这是我最近正在练习的一些曲目。有些是完成了制谱并发布在吉他社区中，欢迎大家参考借鉴并批评指正！
   content: 
   url: music.html
+  first: false
+
+- name: 阅读
+  id: readings
+  description: 正在阅读或者已经读完的书籍。
+  content: 
+  url: reading.html
   first: false
 
 - name: Teaching
@@ -26,14 +33,8 @@
 
 - name: 项目
   id: projects
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 已完成与正在进行的课题项目。
   content: 
   url: projects.html
   first: false
 
-- name: 阅读
-  id: readings
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  content: 
-  url: reading.html
-  first: false
