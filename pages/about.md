@@ -14,18 +14,3 @@ last-updated: 2023-3-30 9:00 AM
 关于研究与学习，我几乎是一个科研小白的身份从新手村上来，正在了解、熟悉系统组方向科研过程的生命周期。同时，在基础知识上我也正在夯cpp和并行计算，希望通过充分的代码训练与理论知识储备让我能在毕业时收获并行计算方向的岗位或体系机构方向博导老师的橄榄枝。
 
 关于生活与爱好，我是一个原声吉他爱好者，中学期间硬夯下《Fight!》之后，便沿着指弹&弹唱的方向开始逐步探索。在体育运动上比较喜欢骑行，习惯从学校出发沿苏州河一直骑到北外滩。沿途的风光与异域风情的建筑群总会让我忘掉一周的疲乏，整个人完全refresh后再以饱满的热情投入下一周的学习与研究。另外，近几年开始，我逐步养成了阅读的习惯，尤其爱看写人物传记与历史纪实。所谓“学史明理、学史增信、学史崇德“，通过阅读我发现其实真的可以从前人的身上汲取不少经验，成功的或是失败的，从他们的身上汲取积极的精神力量以及方法论。
-
-
-*This is an example of code*
-```js
-<script>
-    $(document).ready(function() {
-        $(".toast").toast('show');
-    });
-</script>
-```
-
-Semper eget duis at tellus at urna condimentum. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Suspendisse faucibus interdum posuere lorem ipsum dolor. Volutpat commodo sed egestas egestas fringilla phasellus faucibus. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Massa placerat duis ultricies lacus. Fermentum et sollicitudin ac orci phasellus egestas tellus. Placerat orci nulla pellentesque dignissim enim sit amet. Tellus mauris a diam maecenas sed enim. Tortor vitae purus faucibus ornare. Lectus quam id leo in vitae turpis massa. Porttitor eget dolor morbi non arcu risus quis varius. Felis eget nunc lobortis mattis aliquam. Integer vitae justo eget magna fermentum.
-
-Egestas congue quisque egestas diam in arcu cursus euismod quis. Ullamcorper eget nulla facilisi etiam dignissim diam. Nunc pulvinar sapien et ligula ullamcorper. Turpis in eu mi bibendum. Faucibus scelerisque eleifend donec pretium vulputate. Euismod lacinia at quis risus sed vulputate odio ut enim. Phasellus faucibus scelerisque eleifend donec pretium. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Quis auctor elit sed vulputate. Eu mi bibendum neque egestas. Eu turpis egestas pretium aenean pharetra magna ac. Augue ut lectus arcu bibendum at. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Fermentum leo vel orci porta non pulvinar. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Amet commodo nulla facilisi nullam vehicula ipsum a arcu.
-
