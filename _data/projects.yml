@@ -8,7 +8,10 @@
   link: /project/2019/09/01/Project-0.html
   # image:  http://placehold.it/100x100
   tech: 
-    - python
+    - Python
+    - Neo4j
+    - Java
+    - Echarts
 
 
 - name: 中医知识图谱的语义检索技术测试
@@ -20,7 +23,7 @@
   # link: https://example.com
   # image: http://placehold.it/100x100
   tech: 
-    - python
+    - Python
 
 - name: 标准术语采集技术框架构建
   id: project2
@@ -31,9 +34,7 @@
   # link: https://example.com
   # image:  http://placehold.it/100x100
   tech: 
-    - Java
-    - Maven
-    - Jenkins
+    - Python
 
 # - name: Project 4
 #   id: project4

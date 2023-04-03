@@ -23,7 +23,7 @@ image_alt: A minimalistic jekyll theme for academic    # image description
 profile_image: /assets/img/avatar/hunter.jpeg #/assets/img/avatar/avatar.jpeg 
 occupation: 
 snippet:
-twitter: tbutler0x90
+# twitter: tbutler0x90
 github: hunterhan
 # linkedin: 
 # stackoverflow: '12935605'
